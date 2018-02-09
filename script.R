@@ -16,5 +16,5 @@ library(tidyverse)
 
 
 
-df <- data.frame(c(5,5,5), e <- c (7,7,7), f <- c(3,3,3))
+df <- data.frame(c(5,5,5), e <- c (9,9,9), f <- c(3,3,3))
 df
